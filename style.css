@@ -1,0 +1,100 @@
+.text-bodega
+{
+    color: orange !important;
+    
+}
+
+.text-bodega:hover
+{
+    background-color: white;
+    color: white;
+    border-radius: 10%;
+    transition: 0.5s;
+}
+
+.btn-Bodega
+{
+    background-color: orange ;
+    color: white;
+}
+
+.btn-Bodega:hover
+{
+    background-color: #cf8d15;
+}
+
+#header a
+{
+    color: white;
+    
+    
+}
+
+#header a:hover
+{
+    color: orange;
+    
+    
+}
+
+
+#header img 
+{
+    width: 100px;
+}
+
+#main .carousel-inner img 
+{
+    max-height: 84vh;
+    object-fit: cover;
+    
+}
+
+#carousel
+{
+    position: relative;
+}
+
+#carousel .overlay
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    z-index: 1;
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row 
+{
+    height: 100%;
+}
+
+#place-time img
+{
+    width: 100%;
+}
+
+#place-time 
+{
+    background-color: #212529;
+    color: white;
+}
+
+
+
+
+
+
+#footer
+{
+    background: linear-gradient(90deg,#1c3643,#273647 25%,#1e5372);
+}
+
+#footer a 
+{
+    color: white;
+}
